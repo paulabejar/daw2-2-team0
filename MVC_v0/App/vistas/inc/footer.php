@@ -1,8 +1,8 @@
 
 <div class="container-fluid fixed-bottom">
     <div class="row">
-        <div class="d-flex align-items-center col-12 bg-secondary h-25 p-3">
-            <p>Politica de coockie</p>
+        <div class="d-flex align-items-center col-12 bg-secondary h-25 p-1">
+            <p>Política de cookies</p>
         </div>
     </div>
     
