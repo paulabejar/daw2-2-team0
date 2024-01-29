@@ -7,7 +7,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="img/icon.ico">
     <link rel="stylesheet" type="text/css" href="css/estilos.css">
     
-    <title>BAJO ARAGON</title>
+    <title>Catálogo Digital Bajo Aragón</title>
 </head>
 <body id="inicio">
     <nav class="navbar bg-white fixed-top">
