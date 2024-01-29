@@ -10,7 +10,7 @@
 <body>
     <nav class="navbar fixed-top">
         <div class="container-fluid">
-            <a href="#"><img class="img mt-1" src="/img/logoBA.png" alt="logoBA" style="width: 150px;"></a>
+            <a href=""><img class="img mt-1" src="/img/logoBA.png" alt="logoBA" style="width: 150px;"></a>
             <button class="btn" type="submit">Iniciar Sesión</button>
         </div>
     </nav>
